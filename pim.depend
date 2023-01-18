@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669987827 source:c:\users\chris\onedrive\documentos\pim-c\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<Windows.h>
+
+1666876717 source:c:\users\chris\onedrive\documentos\pim-c\pim\pimfeito.c
+
